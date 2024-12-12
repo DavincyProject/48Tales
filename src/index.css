@@ -1,0 +1,73 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-image: url("/bg.png"); /* Replace with the actual path */
+  background-size: cover; /* Adjust as needed */
+  background-position: center; /* Adjust as needed */
+  background-repeat: no-repeat; /* Adjust as needed */
+}
+
+nav {
+  background-image: url("/navbg.png"); /* Replace with the actual path */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.embla {
+  overflow: hidden;
+}
+.embla__container {
+  display: flex;
+}
+.embla__slide {
+  aspect-ratio: 16/9; /* Atur rasio aspek sesuai dengan kebutuhan */
+  width: 100vw; /* Atur lebar carousel menjadi 100% dari viewport */
+  height: 56.25vw; /* Atur tinggi carousel menjadi 56.25% dari viewport */
+}
+
+.embla__slide__img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+@media (max-width: 768px) {
+  .embla__slide {
+    aspect-ratio: 4/3; /* Atur rasio aspek sesuai dengan kebutuhan */
+  }
+}
+
+@media (max-width: 480px) {
+  .embla__slide {
+    aspect-ratio: 3/2; /* Atur rasio aspek sesuai dengan kebutuhan */
+  }
+}
+
+@media (max-width: 320px) {
+  .embla__slide {
+    aspect-ratio: 2/1; /* Atur rasio aspek sesuai dengan kebutuhan */
+  }
+}
+
+/* Style untuk semua scrollbar */
+::-webkit-scrollbar {
+  width: 12px !important;
+}
+
+::-webkit-scrollbar-track {
+  background: #000000 !important;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgb(216, 118, 224) !important;
+  border-radius: 10px !important;
+}
+
+/* Style untuk Firefox */
+html {
+  scrollbar-width: thin !important;
+  scrollbar-color: rgb(216, 118, 224) #000000 !important;
+}
