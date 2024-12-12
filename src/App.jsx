@@ -14,7 +14,7 @@ function App() {
           {/* Guest routes */}
           <Route path="/" element={<Home />} />
           <Route path="/members" element={<Member />} />
-          <Route path="/details/:id" element={<MemberDetail />} />
+          <Route path="/members/:id" element={<MemberDetail />} />
 
           {/* Handle Pages Not Found */}
           <Route path="*" element={<NotFound />} />
