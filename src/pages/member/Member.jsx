@@ -10,13 +10,20 @@ const Member = () => {
         <h1 className="font-semibold text-base md:text-xl text-[#8C4885]">
           Members
         </h1>
-        <div className="form-control">
+
+        <form className="flex relative flex-row">
           <input
-            type="text"
-            placeholder="Search"
-            className="input input-bordered w-24 md:w-auto"
+            type="search"
+            placeholder="Cari Member"
+            className="sm:w-[35dvw] sm:h-[6dvh] outline-none focus:outline-none px-4 py-[6px] border-2 rounded-2xl border-darkblue"
           />
-        </div>
+          <button
+            type="submit"
+            className="absolute bottom-1/2 right-4 translate-y-1/2 rounded-lg bg-[#6148FF] p-1"
+          >
+            <img src="/search.svg" className="w-5 md:w-6" alt="search icon" />
+          </button>
+        </form>
       </div>
 
       {Object.entries(memberData).map(([groupName, members]) => (
