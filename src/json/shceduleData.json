@@ -1,0 +1,125 @@
+{
+  "2024-12": [
+    {
+      "id": 1,
+      "date": "2024-10-1",
+      "event": [
+        {
+          "location": "Media",
+          "team": "AKB48",
+          "description": "[Haruka Sakagawa] Nippon Television Network's four Hokuriku stations `~Niigata, Toyama, Ishikawa, Fukui~ Mission Shimaso Railroad Sugoroku Journey`"
+        },
+        {
+          "location": "Theater",
+          "team": "AKB48",
+          "description": "[Oguri Yui] MBS Radio `Uppare Yattemasu!`"
+        },
+        {
+          "location": "Media",
+          "team": "SKE48",
+          "description": "NHK Nagoya `Gurutto!`"
+        },
+        {
+          "location": "Media",
+          "team": "HKT48",
+          "description": "FBS Fukuoka Broadcasting `Mentai Wide`"
+        },
+        {
+          "location": "Media",
+          "team": "HKT48",
+          "description": "RKB Radio `HKT48's Momochihama Radio Station`"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "date": "2024-10-2",
+      "event": [
+        {
+          "location": "Media",
+          "team": "AKB48",
+          "description": "[Haruka Sakagawa] Nippon Television Network's four Hokuriku stations `~Niigata, Toyama, Ishikawa, Fukui~ Mission Shimaso Railroad Sugoroku Journey`"
+        },
+        {
+          "location": "Theater",
+          "team": "JKT48",
+          "description": "Cara Meminum Ramune"
+        },
+        {
+          "location": "Theater",
+          "team": "HKT48",
+          "description": "Renai Kinshi Jourei"
+        },
+        {
+          "location": "Theater",
+          "team": "SKE48",
+          "description": "Theater no Megami"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "date": "2024-10-3",
+      "event": [
+        {
+          "location": "Media",
+          "team": "AKB48",
+          "description": "[Haruka Sakagawa] Nippon Television Network's four Hokuriku stations `~Niigata, Toyama, Ishikawa, Fukui~ Mission Shimaso Railroad Sugoroku Journey`"
+        },
+        {
+          "location": "Theater",
+          "team": "AKB48",
+          "description": "[Oguri Yui] MBS Radio `Uppare Yattemasu!`"
+        },
+        {
+          "location": "Media",
+          "team": "SKE48",
+          "description": "NHK Nagoya `Gurutto!`"
+        },
+        {
+          "location": "Media",
+          "team": "HKT48",
+          "description": "FBS Fukuoka Broadcasting `Mentai Wide`"
+        },
+        {
+          "location": "Media",
+          "team": "HKT48",
+          "description": "RKB Radio `HKT48's Momochihama Radio Station`"
+        }
+      ]
+    }
+  ],
+  "2025-01": [
+    {
+      "id": 1,
+      "date": "2024-10-1",
+      "event": [
+        {
+          "location": "Media",
+          "team": "AKB48",
+          "description": "[Haruka Sakagawa] Nippon Television Network's four Hokuriku stations `~Niigata, Toyama, Ishikawa, Fukui~ Mission Shimaso Railroad Sugoroku Journey`"
+        },
+        {
+          "location": "Theater",
+          "team": "AKB48",
+          "description": "[Oguri Yui] MBS Radio `Uppare Yattemasu!`"
+        },
+        {
+          "location": "Media",
+          "team": "SKE48",
+          "description": "NHK Nagoya `Gurutto!`"
+        },
+        {
+          "location": "Media",
+          "team": "HKT48",
+          "description": "FBS Fukuoka Broadcasting `Mentai Wide`"
+        },
+        {
+          "location": "Media",
+          "team": "HKT48",
+          "description": "RKB Radio `HKT48's Momochihama Radio Station`"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "Freya",
+    "fullName": "Freya Jayawardana",
+    "gen": "JKT48 Generation 7",
+    "picture": "https://res.cloudinary.com/haymzm4wp/image/upload/v1730447264/assets/kabesha/oktober_2024/freya_jayawardana.jpg",
+    "birthDate": "",
+    "height": "",
+    "horoscope": "",
+    "bloodType": ""
+  },
+  {
+    "id": 2,
+    "name": "Amanda",
+    "fullName": "Amanda Sukma",
+    "gen": "JKT48 Generation ",
+    "picture": "",
+    "birthDate": "",
+    "height": "",
+    "horoscope": "",
+    "bloodType": ""
+  },
+  {
+    "id": 3,
+    "name": "Angelina",
+    "fullName": "Angelina Christy",
+    "gen": "JKT48 Generation ",
+    "picture": "",
+    "birthDate": "",
+    "height": "",
+    "horoscope": "",
+    "bloodType": ""
+  },
+  {
+    "id": 4,
+    "name": "Aurellia",
+    "fullName": "Aurellia",
+    "gen": "JKT48 Generation ",
+    "picture": "",
+    "birthDate": "",
+    "height": "",
+    "horoscope": "",
+    "bloodType": ""
+  },
+  {
+    "id": 5,
+    "name": "Callista",
+    "fullName": "Callista Alifia",
+    "gen": "JKT48 Generation ",
+    "picture": "",
+    "birthDate": "",
+    "height": "",
+    "horoscope": "",
+    "bloodType": ""
+  },
+  {
+    "id": 5,
+    "name": "Cornelia",
+    "fullName": "Cornelia Vanisa",
+    "gen": "JKT48 Generation ",
+    "picture": "",
+    "birthDate": "",
+    "height": "",
+    "horoscope": "",
+    "bloodType": ""
+  }
+]
