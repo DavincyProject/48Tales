@@ -14,7 +14,7 @@ const Navbar = () => {
       <nav className="py-5 flex gap-5 items-center justify-center bg-[#C48FC2] w-full">
         {menuItems.map((item) => (
           <Link
-            className="flex items-center gap-2 hover:text-black font-bold text-white text-sm md:text-base"
+            className="flex items-center gap-2 hover:text-[#8C4885] font-bold text-white text-sm md:text-base"
             key={item.name}
             to={item.name === "Home" ? "/" : `/${item.name.toLowerCase()}`}
           >
