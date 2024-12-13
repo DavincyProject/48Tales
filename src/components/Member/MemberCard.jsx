@@ -4,9 +4,9 @@ const MemberCard = ({ src, name }) => {
       <img
         src={src}
         alt={name}
-        className="rounded-md w-full max-h-48 object-cover"
+        className="rounded-md w-full h-48 object-cover"
       />
-      <div className="bg-pink-300 p-1 border rounded-xl mt-2">
+      <div className="bg-pink-300 p-1 border rounded-xl mt-2 flex items-center justify-center h-20">
         <h2 className="text-center font-bold text-base text-pink-600">
           {name}
         </h2>
