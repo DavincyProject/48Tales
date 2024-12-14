@@ -1,183 +1,192 @@
 {
-  "JKT48": [
-    {
-      "id": 1,
-      "name": "Freya Jayawardana",
-      "picture": "https://res.cloudinary.com/haymzm4wp/image/upload/v1730447264/assets/kabesha/oktober_2024/freya_jayawardana.jpg"
-    },
-    {
-      "id": 2,
-      "name": "Amanda Puspita Sukma Mulyadewi",
-      "picture": "https://res.cloudinary.com/haymzm4wp/image/upload/v1730447250/assets/kabesha/oktober_2024/amanda_sukma.jpg"
-    },
-    {
-      "id": 3,
-      "name": "Angelina Christy",
-      "picture": "https://res.cloudinary.com/haymzm4wp/image/upload/v1730447251/assets/kabesha/oktober_2024/angelina_christy.jpg"
-    },
-    {
-      "id": 4,
-      "name": "Aurellia",
-      "picture": "https://placehold.co/300x450.svg"
-    },
-    {
-      "id": 5,
-      "name": "Callista Alifia Wardhana",
-      "picture": "https://res.cloudinary.com/haymzm4wp/image/upload/v1730447253/assets/kabesha/oktober_2024/callista_alifia.jpg"
-    },
-    {
-      "id": 6,
-      "name": "Cornelia Vanisa",
-      "picture": "https://placehold.co/300x450.svg"
-    },
-    {
-      "id": 7,
-      "name": "Febriola Sinambela",
-      "picture": "https://placehold.co/300x450.svg"
-    },
-    {
-      "id": 8,
-      "name": "Feni Fitriyanti",
-      "picture": "https://res.cloudinary.com/haymzm4wp/image/upload/v1730447261/assets/kabesha/oktober_2024/feni_fitriyanti.jpg"
-    },
-    {
-      "id": 9,
-      "name": "Fiony Alveria",
-      "picture": "https://res.cloudinary.com/haymzm4wp/image/upload/v1730447262/assets/kabesha/oktober_2024/fiony_alveria.jpg"
-    },
-    {
-      "id": 10,
-      "name": "Flora Shafiq",
-      "picture": "https://res.cloudinary.com/haymzm4wp/image/upload/v1730447263/assets/kabesha/oktober_2024/flora_shafiq.jpg"
-    },
-    {
-      "id": 11,
-      "name": "Gabriela Abigail",
-      "picture": "https://placehold.co/300x450.svg"
-    },
-    {
-      "id": 12,
-      "name": "Gita Sekar Andraini",
-      "picture": "https://res.cloudinary.com/haymzm4wp/image/upload/v1730447266/assets/kabesha/oktober_2024/gita_sekar_andarini.jpg"
-    }
-  ],
-  "KLP48": [
-    {
-      "id": 1,
-      "name": "Ann Drea",
-      "picture": "https://placehold.co/300x450.svg"
-    },
-    {
-      "id": 2,
-      "name": "Amanda",
-      "picture": "https://placehold.co/300x450.svg"
-    },
-    {
-      "id": 3,
-      "name": "Cocoa",
-      "picture": "https://placehold.co/300x450.svg"
-    },
-    {
-      "id": 4,
-      "name": "Devi",
-      "picture": "https://placehold.co/300x450.svg"
-    },
-    {
-      "id": 5,
-      "name": "Haruka",
-      "picture": "https://placehold.co/300x450.svg"
-    },
-    {
-      "id": 6,
-      "name": "Hilary",
-      "picture": "https://placehold.co/300x450.svg"
-    },
-    {
-      "id": 7,
-      "name": "Khalies",
-      "picture": "https://placehold.co/300x450.svg"
-    },
-    {
-      "id": 8,
-      "name": "Lucine",
-      "picture": "https://placehold.co/300x450.svg"
-    },
-    {
-      "id": 9,
-      "name": "Safwa",
-      "picture": "https://placehold.co/300x450.svg"
-    },
-    {
-      "id": 10,
-      "name": "Suzuha",
-      "picture": "https://placehold.co/300x450.svg"
-    },
-    {
-      "id": 11,
-      "name": "Tiffany",
-      "picture": "https://placehold.co/300x450.svg"
-    },
-    {
-      "id": 12,
-      "name": "Yurina",
-      "picture": "https://placehold.co/300x450.svg"
-    },
-    {
-      "id": 13,
-      "name": "Yi Shyan",
-      "picture": "https://placehold.co/300x450.svg"
-    }
-  ],
-  "AKB48": [
-    {
-      "id": 1,
-      "name": "Ayami Nagatomo",
-      "picture": "https://placehold.co/300x450.svg"
-    },
-    {
-      "id": 2,
-      "name": "Saho Iwatate",
-      "picture": "https://placehold.co/300x450.svg"
-    },
-    {
-      "id": 3,
-      "name": "Yuiri Murayama",
-      "picture": "https://placehold.co/300x450.svg"
-    },
-    {
-      "id": 4,
-      "name": "Haruka Komiyama",
-      "picture": "https://placehold.co/300x450.svg"
-    },
-    {
-      "id": 5,
-      "name": "Seina Fukuoka",
-      "picture": "https://placehold.co/300x450.svg"
-    },
-    {
-      "id": 6,
-      "name": "Mion Mukaichi",
-      "picture": "https://placehold.co/300x450.svg"
-    },
-    {
-      "id": 7,
-      "name": "Yui Oguri",
-      "picture": "https://placehold.co/300x450.svg"
-    },
-    {
-      "id": 8,
-      "name": "Miu Shitao",
-      "picture": "https://placehold.co/300x450.svg"
-    },
-    {
-      "id": 9,
-      "name": "Ayane Takashi",
-      "picture": "https://placehold.co/300x450.svg"
-    },
-    {
-      "id": 10,
-      "name": "Mayu Masai",
-      "picture": "https://placehold.co/300x450.svg"
-    }
-  ]
+  "JKT48": {
+    "color": "#FFD700",
+    "members": [
+      {
+        "id": 1,
+        "name": "Freya Jayawardana",
+        "picture": "https://res.cloudinary.com/haymzm4wp/image/upload/v1730447264/assets/kabesha/oktober_2024/freya_jayawardana.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Amanda Puspita Sukma Mulyadewi",
+        "picture": "https://res.cloudinary.com/haymzm4wp/image/upload/v1730447250/assets/kabesha/oktober_2024/amanda_sukma.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Angelina Christy",
+        "picture": "https://res.cloudinary.com/haymzm4wp/image/upload/v1730447251/assets/kabesha/oktober_2024/angelina_christy.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Aurellia",
+        "picture": "https://placehold.co/300x450.svg"
+      },
+      {
+        "id": 5,
+        "name": "Callista Alifia Wardhana",
+        "picture": "https://res.cloudinary.com/haymzm4wp/image/upload/v1730447253/assets/kabesha/oktober_2024/callista_alifia.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Cornelia Vanisa",
+        "picture": "https://placehold.co/300x450.svg"
+      },
+      {
+        "id": 7,
+        "name": "Febriola Sinambela",
+        "picture": "https://placehold.co/300x450.svg"
+      },
+      {
+        "id": 8,
+        "name": "Feni Fitriyanti",
+        "picture": "https://res.cloudinary.com/haymzm4wp/image/upload/v1730447261/assets/kabesha/oktober_2024/feni_fitriyanti.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Fiony Alveria",
+        "picture": "https://res.cloudinary.com/haymzm4wp/image/upload/v1730447262/assets/kabesha/oktober_2024/fiony_alveria.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Flora Shafiq",
+        "picture": "https://res.cloudinary.com/haymzm4wp/image/upload/v1730447263/assets/kabesha/oktober_2024/flora_shafiq.jpg"
+      },
+      {
+        "id": 11,
+        "name": "Gabriela Abigail",
+        "picture": "https://placehold.co/300x450.svg"
+      },
+      {
+        "id": 12,
+        "name": "Gita Sekar Andraini",
+        "picture": "https://res.cloudinary.com/haymzm4wp/image/upload/v1730447266/assets/kabesha/oktober_2024/gita_sekar_andarini.jpg"
+      }
+    ]
+  },
+  "KLP48": {
+    "color": "#FF69B4",
+    "members": [
+      {
+        "id": 1,
+        "name": "Ann Drea",
+        "picture": "https://placehold.co/300x450.svg"
+      },
+      {
+        "id": 2,
+        "name": "Amanda",
+        "picture": "https://placehold.co/300x450.svg"
+      },
+      {
+        "id": 3,
+        "name": "Cocoa",
+        "picture": "https://placehold.co/300x450.svg"
+      },
+      {
+        "id": 4,
+        "name": "Devi",
+        "picture": "https://placehold.co/300x450.svg"
+      },
+      {
+        "id": 5,
+        "name": "Haruka",
+        "picture": "https://placehold.co/300x450.svg"
+      },
+      {
+        "id": 6,
+        "name": "Hilary",
+        "picture": "https://placehold.co/300x450.svg"
+      },
+      {
+        "id": 7,
+        "name": "Khalies",
+        "picture": "https://placehold.co/300x450.svg"
+      },
+      {
+        "id": 8,
+        "name": "Lucine",
+        "picture": "https://placehold.co/300x450.svg"
+      },
+      {
+        "id": 9,
+        "name": "Safwa",
+        "picture": "https://placehold.co/300x450.svg"
+      },
+      {
+        "id": 10,
+        "name": "Suzuha",
+        "picture": "https://placehold.co/300x450.svg"
+      },
+      {
+        "id": 11,
+        "name": "Tiffany",
+        "picture": "https://placehold.co/300x450.svg"
+      },
+      {
+        "id": 12,
+        "name": "Yurina",
+        "picture": "https://placehold.co/300x450.svg"
+      },
+      {
+        "id": 13,
+        "name": "Yi Shyan",
+        "picture": "https://placehold.co/300x450.svg"
+      }
+    ]
+  },
+  "AKB48": {
+    "color": "#8A2BE2",
+    "members": [
+      {
+        "id": 1,
+        "name": "Ayami Nagatomo",
+        "picture": "https://placehold.co/300x450.svg"
+      },
+      {
+        "id": 2,
+        "name": "Saho Iwatate",
+        "picture": "https://placehold.co/300x450.svg"
+      },
+      {
+        "id": 3,
+        "name": "Yuiri Murayama",
+        "picture": "https://placehold.co/300x450.svg"
+      },
+      {
+        "id": 4,
+        "name": "Haruka Komiyama",
+        "picture": "https://placehold.co/300x450.svg"
+      },
+      {
+        "id": 5,
+        "name": "Seina Fukuoka",
+        "picture": "https://placehold.co/300x450.svg"
+      },
+      {
+        "id": 6,
+        "name": "Mion Mukaichi",
+        "picture": "https://placehold.co/300x450.svg"
+      },
+      {
+        "id": 7,
+        "name": "Yui Oguri",
+        "picture": "https://placehold.co/300x450.svg"
+      },
+      {
+        "id": 8,
+        "name": "Miu Shitao",
+        "picture": "https://placehold.co/300x450.svg"
+      },
+      {
+        "id": 9,
+        "name": "Ayane Takashi",
+        "picture": "https://placehold.co/300x450.svg"
+      },
+      {
+        "id": 10,
+        "name": "Mayu Masai",
+        "picture": "https://placehold.co/300x450.svg"
+      }
+    ]
+  }
 }
